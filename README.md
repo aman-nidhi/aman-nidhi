@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**aman nidhi** 
+- 🔭 I’m currently working on JS, React.js, Node.js, 
+
+# Online presence
+  - [Codechef Aman Nidhi](https://www.codechef.com/users/skyhavoc) 
+  - [CodeForces  Aman Nidhi](https://codeforces.com/profile/skyhavoc) 
+  - [Leetcode  Aman Nidhi](https://leetcode.com/skyhavoc/) 
+  - [Blog Do The Math](https://medium.com/do-the-math/)
