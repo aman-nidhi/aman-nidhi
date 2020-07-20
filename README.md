@@ -6,14 +6,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Typescript, MERN Stack, Django
-- 👯 I’m looking to collaborate on ... Anything
+- 🔭 I’m currently working on ... MERN Stack
+- 🌱 I’m currently learning ... Typescript, Django, System Design, DB
+- 👯 I’m looking to collaborate on ... js and python project, or anything interesting
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Algotihms, Web Development, Software Career
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... twitter, linkedin
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 
 # Other online presence:
