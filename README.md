@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Typescript, Django, System Design, DB
 - 👯 I’m looking to collaborate on ... js and python project, or anything interesting
 - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Algotihms, Web Development, Software Career
+- 💬 Ask me about ... Algorithms, Web Development, Software Career
 - 📫 How to reach me: ... twitter, linkedin
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   - [CodeForces  Aman Nidhi](https://codeforces.com/profile/skyhavoc) 
   - [Leetcode  Aman Nidhi](https://leetcode.com/skyhavoc/) 
   - [Blog Do The Math](https://medium.com/do-the-math/)
-  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aman-nidhi/)
+  - [![Linkedin]LinkedIn ](https://www.linkedin.com/in/aman-nidhi/)
   - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aman__nidhi.svg?style=social&label=Follow%20aman__nidhi)](https://twitter.com/aman__nidhi)
