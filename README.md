@@ -24,3 +24,14 @@ Here are some ideas to get you started:
   
   
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aman__nidhi.svg?style=social&label=Follow%20aman__nidhi)](https://twitter.com/aman__nidhi)
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/aman-nidi"
+
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/aman__nidhi"
