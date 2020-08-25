@@ -6,14 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... MERN Stack
-- 🌱 I’m currently learning ... Typescript, Django, System Design, DB
-- 👯 I’m looking to collaborate on ... js and python project, or anything interesting
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Algorithms, Web Development, Software Career
-- 📫 How to reach me: ... twitter, linkedin
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- 🔭 I’m currently working on ... Razzle App (one stop web app to showcase all my frontend learnings)
+- 🌱 I’m currently learning ... Typescript, Nodejs, Distributed Systems, Data Bases(Mongo, Postgres), and Networks
+- 👯 I’m looking to collaborate on ... web application projects, or anything interesting
+- 🤔 I’m looking for help with ... Distributed System Learning
+- 💬 Ask me about ... Algorithms(DSA), Web Development, Software Careers
+- 📫 How to reach me: ... twitter @aman__nidhi, linkedin @aman-nidhi
+- ⚡ Fun fact: ... hmm
 
 
 # Other online presence:
