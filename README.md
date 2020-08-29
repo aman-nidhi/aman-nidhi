@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Razzle App (one stop web app to showcase all my frontend learnings)
+- 🔭 I’m currently working on ... [Razzle App](https://razzle-ui.herokuapp.com/) (one stop web app to showcase all my frontend learnings)
 - 🌱 I’m currently learning ... Typescript, Nodejs, Distributed Systems, Data Bases(Mongo, Postgres), and Networks
 - 👯 I’m looking to collaborate on ... web application projects, or anything interesting
 - 🤔 I’m looking for help with ... Distributed System Learning
