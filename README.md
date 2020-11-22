@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Other online presence:
   - [Codechef Aman Nidhi](https://www.codechef.com/users/skyhavoc) 
   - [CodeForces  Aman Nidhi](https://codeforces.com/profile/skyhavoc) 
-  - [Leetcode  Aman Nidhi](https://leetcode.com/skyhavoc/) 
-  - [Blog Do The Math](https://medium.com/do-the-math/)
+  - [Leetcode  Aman Nidhi](https://leetcode.com/aman-nidhi/) 
+  - [Blog Do The Math](https://medium.com/do-the-math/latest/)
   - [<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" > @aman nidhi</img>](https://www.linkedin.com/in/aman-nidhi/)
   - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aman__nidhi.svg?style=social&label=Follow%20aman__nidhi)](https://twitter.com/aman__nidhi)
 
