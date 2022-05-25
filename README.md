@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [Razzle App](https://razzle-ui.herokuapp.com/) (one stop web app to showcase all my frontend learnings)
-- 🌱 I’m currently learning ... Typescript, Nodejs, Distributed Systems, Data Bases(Mongo, Postgres), and Networks
+- 🌱 I’m currently learning ... Typescript, Nodejs, Distributed Systems, Data Bases(Mongo, Postgres)
 - 👯 I’m looking to collaborate on ... web application projects, or anything interesting
 - 🤔 I’m looking for help with ... Distributed System Learning
 - 💬 Ask me about ... Algorithms(DSA), Web Development, Software Careers
@@ -16,9 +15,6 @@ Here are some ideas to get you started:
 
 
 # Other online presence:
-  - [Codechef Aman Nidhi](https://www.codechef.com/users/skyhavoc) 
-  - [CodeForces  Aman Nidhi](https://codeforces.com/profile/skyhavoc) 
-  - [Leetcode  Aman Nidhi](https://leetcode.com/aman-nidhi/) 
   - [Blog Do The Math](https://medium.com/do-the-math/latest/)
   - [<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" > @aman nidhi</img>](https://www.linkedin.com/in/aman-nidhi/)
   - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aman__nidhi.svg?style=social&label=Follow%20aman__nidhi)](https://twitter.com/aman__nidhi)
