@@ -18,5 +18,6 @@ Here are some ideas to get you started:
   - [Blog Do The Math](https://medium.com/do-the-math/latest/)
   - [<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" > @aman nidhi</img>](https://www.linkedin.com/in/aman-nidhi/)
   - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aman__nidhi.svg?style=social&label=Follow%20aman__nidhi)](https://twitter.com/aman__nidhi)
+  - [Stackoverflow](https://stackoverflow.com/users/7020414/paperba1l)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
